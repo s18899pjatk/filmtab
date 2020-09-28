@@ -42,7 +42,7 @@ const Navbar = ({ user }) => {
 
           {user && (
             <>
-              <NavLink className="nav-item nav-link" to="/profile">
+              <NavLink className="nav-item nav-link" to="#">
                 {user.name}
               </NavLink>
               <NavLink className="nav-item nav-link" to="/logout">
