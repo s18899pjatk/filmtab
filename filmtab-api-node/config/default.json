@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "key",
+  "db": "mongodb://localhost/filmtab",
+  "port": "3900",
+  "requiresAuth": false
+}
